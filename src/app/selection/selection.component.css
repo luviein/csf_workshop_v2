@@ -1,0 +1,22 @@
+
+
+td {
+  padding: 1rem;
+  flex-basis: 50%;
+}
+
+.card {
+  width: 15rem;
+
+
+}
+.flexing {
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+.card-body {
+  padding: 1.3rem;
+
+}
